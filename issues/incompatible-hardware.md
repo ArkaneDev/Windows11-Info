@@ -1,5 +1,7 @@
 # Incompatible Hardware
 
+⚠️Before updating, it is strongly recommended you read the reasons that you may not want to update unsupported hardware [here](/issues/incompatible-hardware.md) ⚠️
+
 With the release of Windows 11, Microsoft has heavily upped the hardware requirements. When installing Windows 11 through regular means, you may receive an undismissable error such as: \
 ![TPM & SECUREBOOT ERROR](https://github.com/ArkaneDev/WinPass11/blob/guided/WinPass11Guided/assets/TpmError.png?raw=true)
 
