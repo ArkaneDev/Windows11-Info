@@ -9,4 +9,4 @@ Problematic Drivers:
 Fix:
 1. Go to device manager and locate your device. 
 2. Right click the device and click uninstall device
-3. Upon updating to windows 11, Windows should reinstall your device, if it does not, reinstall from your manufacturere's website
+3. Upon updating to windows 11, Windows should reinstall your device, if it does not, reinstall from your manufacturer's website
