@@ -1,4 +1,4 @@
-# Unsupportedly supported
+## Unsupportedly Supported
 
 There are some CPUs which may seem as if they are unsupported,
 though they work fine and Microsoft has put in work to implement their support
