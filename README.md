@@ -12,6 +12,7 @@ This repository is a knowledgebase for Windows 11 information, issues and troubl
 * Improved CPU scheduler
 * Android app support
 * Improved security hardening support
+* Storage I/O optimizations (especially for ssds)
 
 ### Reasons to not update
 * [Incompatible hardware](/dont-update/incompatible-hardware.md)
