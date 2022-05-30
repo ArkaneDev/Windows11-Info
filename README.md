@@ -14,6 +14,6 @@ This repository is a knowledgebase for Windows 11 information, issues and troubl
 * Improved security hardening support
 
 ### Reasons to not update
-* Incompatible hardware
+* [Incompatible hardware](/dont-update/incompatible-hardware.md)
 * Issues with being an early adopter
 
