@@ -2,7 +2,7 @@
 Though it may be trivial to bypass the restrictions to update to Windows 11, there are reasons for which you may want to refrain from doing so.
 
 If you update to Windows 11, you are no longer entitled to receive updates. 
-Does this mean you wont? No it means that microsoft doesn't *have* to update your machine anymore and at any they can time cut you off.
+Does this mean you wont? No it means that microsoft doesn't *have* to update your machine anymore and they can cut you off at any time.
 
 You may experience more instability than people who use Windows 11 on supported hardware. 
 Microsoft hasn't tested and ironed out bugs that may affect unsupported hardware.
