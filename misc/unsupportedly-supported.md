@@ -7,4 +7,4 @@ Examples:
 * ALL Intel 7th gen CPUs
 * Ryzen 3 1200 AF
 * Ryzen 5 1600 AF
-* Most of Ryzen 1
+* ALL AMD Zen 1+ CPUs
