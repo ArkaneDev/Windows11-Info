@@ -18,3 +18,5 @@ This repository is a knowledgebase for Windows 11 information, issues and troubl
 * [Incompatible hardware](/dont-update/incompatible-hardware.md)
 * Issues with being an early adopter
 
+### Misc
+* [Semi-supported Systems](/misc/unsupportedly-supported.md)
