@@ -1,9 +1,9 @@
 This repository is a knowledgebase for Windows 11 information, issues and troubleshooting.
 
 ### Issues with updating
-* Drivers hanging update
-* Incompatible hardware
-* Not enough storage space
+* [Drivers hanging update](/issues/drivers.md)
+* [Incompatible hardware](/issues/incompatible-hardware.md)
+* [Not enough storage space](/issues/space.md)
 
 ### Reasons to update
 * Refreshed UI
